@@ -1,0 +1,4 @@
+bad block: 1 0
+bad block: 1 0
+bad block: 0
+bad block: 0

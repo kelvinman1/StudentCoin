@@ -1,0 +1,2 @@
+count_blocks: 3153600
+change_reward: 4032
